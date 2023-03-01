@@ -1,6 +1,5 @@
 # twitch-messenger-clone
-A Messenger App built in React and Node.js using getStream.io. This project is in support of the tutorial found [here](https://youtu.be/xyiuBEBv0_0)
-
+A Messenger App built in React and Node.js using getStream.io. 
 ### To Start This Project
 
 ### sign up to getstream.io
